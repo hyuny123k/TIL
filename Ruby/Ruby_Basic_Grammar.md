@@ -1,6 +1,6 @@
-# 2018.01.24(수)
+# Ruby
 
-##### Codecademy - Ruby 
+
 
 루비는 Powerful하고 flexible한 프로그래밍 언어입니다.
 
@@ -25,7 +25,6 @@
 
 - **Easy to use**
   : 다른 언어에 비해 사용하기가 매우 쉽습니다..
-
 
 ------
 
@@ -228,7 +227,7 @@ multi-line 주석을
 
 ------
 
-# 2018.01.25(목)
+
 
 1. **gets method**
 
@@ -502,7 +501,7 @@ false || false # => false
 
 ------
 
-# 2018.01.26(금)
+
 
 1. **include method**
 
@@ -905,16 +904,15 @@ end
        secret_identities.each do |x,y|
          puts "#{x}: #{y}"
        end
-    
-    
+
+
+​    
        # key값과  value값을 표현할때는 위와같이 표현이 가능하다.
        ```
 
 ------
 ------
-------
-
-# 2018.02.02(금)
+# 
 
 1. Method Syntax
 
@@ -1032,7 +1030,7 @@ print number.sort! { |a,b| b<=>a }
 
 
 
-##### 	What's a Symbol?
+**What's a Symbol?**
 
 - 루비에서는 모든 것이 객체(object)로 존재한다. 그렇기 때문에 심볼도 객체이고 , 문자열도 객체다.
 
